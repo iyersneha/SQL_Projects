@@ -1,1 +1,1 @@
-# Sneha Iyer - Data Analysis Portfolio
+# Sneha Iyer - SQL Projects
