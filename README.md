@@ -1,1 +1,1 @@
-# Sneha Iyer - SQL Projects
+# SQL Projects
